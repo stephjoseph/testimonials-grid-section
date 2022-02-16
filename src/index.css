@@ -5,11 +5,11 @@
 @tailwind utilities;
 
 @layer base {
-  body {
-    @apply flex flex-col items-center bg-[#ECF2F8] font-['Barlow_Semi_Condensed'];
+  header {
+    @apply absolute top-[-99999px] left-[-99999px];
   }
 
-  h1 {
-    @apply absolute top-[-99999px] left-[-99999px];
+  body {
+    @apply flex flex-col items-center bg-[#ECF2F8] font-['Barlow_Semi_Condensed'];
   }
 }
