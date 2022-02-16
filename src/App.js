@@ -4,7 +4,7 @@ import Testimonials from "./components/Testimonials";
 
 function App() {
   return (
-    <div className="App mx-auto my-[4.438rem] h-[114rem] w-[20.438rem]">
+    <div className="App mx-auto my-[4.438rem] h-[114rem] w-[20.438rem] font-['Barlow_Semi_Condensed']">
       <Testimonials />
     </div>
   );
