@@ -31,7 +31,7 @@ export default function Testimonials() {
           </div>
         </div>
         <div className="z-10 flex flex-col gap-10 xl:gap-4">
-          <p className="semi-bold text-xl leading-6 tracking-normal text-white">
+          <p className="text-xl font-semibold leading-6 tracking-normal text-white">
             I received a job offer mid-course, and the subjects I learned were
             current, if not more so, in the company I joined. I honestly feel I
             got every penny’s worth.
@@ -66,7 +66,7 @@ export default function Testimonials() {
           </div>
         </div>
         <div className="z-10 flex flex-col gap-4">
-          <p className="semi-bold text-xl leading-6 tracking-normal text-white">
+          <p className="text-xl font-semibold leading-6 tracking-normal text-white">
             The team was very supportive and kept me motivated
           </p>
           <p className="text-medium text-[0.813rem] leading-[1.125rem] tracking-normal text-white/70">
@@ -94,8 +94,8 @@ export default function Testimonials() {
             </p>
           </div>
         </div>
-        <div className="z-10 flex flex-col gap-4">
-          <p className="semi-bold text-xl leading-6 tracking-normal text-[#48556A]">
+        <div className="z-10 flex flex-col gap-4 xl:gap-6">
+          <p className="text-xl font-semibold leading-6 tracking-normal text-[#48556A]">
             An overall wonderful and rewarding experience
           </p>
           <p className="text-medium text-[0.813rem] leading-[1.125rem] tracking-normal text-[#48556A]/70">
@@ -122,8 +122,8 @@ export default function Testimonials() {
             </p>
           </div>
         </div>
-        <div className="z-10 flex flex-col gap-4">
-          <p className="semi-bold text-xl leading-6 tracking-normal text-[#ECF2F8]">
+        <div className="z-10 flex flex-col gap-4 xl:gap-6">
+          <p className="text-xl font-semibold leading-6 tracking-normal text-[#ECF2F8]">
             Awesome teaching support from TAs who did the bootcamp themselves.
             Getting guidance from them and learning from their experiences was
             easy.
@@ -132,7 +132,8 @@ export default function Testimonials() {
             “ The staff seem genuinely concerned about my progress which I find
             really refreshing. The program gave me the confidence necessary to
             be able to go out in the world and present myself as a capable
-            junior developer. The standard is above the rest. You will get the
+            junior developer. The standard is above the rest. You will get the{" "}
+            <br className="hidden xl:inline" />
             personal attention you need from an incredible community of smart
             and amazing people. ”
           </p>
@@ -156,8 +157,8 @@ export default function Testimonials() {
             </p>
           </div>
         </div>
-        <div className="z-10 flex flex-col gap-4">
-          <p className="semi-bold text-xl leading-6 tracking-normal text-[#48556A]">
+        <div className="z-10 flex flex-col gap-4 xl:gap-6">
+          <p className="text-xl font-semibold leading-6 tracking-normal text-[#48556A]">
             Such a life-changing experience. Highly recommended!
           </p>
           <p className="text-medium text-[0.813rem] leading-[1.125rem] tracking-normal text-[#48556A]/70">
