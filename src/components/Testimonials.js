@@ -31,11 +31,11 @@ export default function Testimonials() {
           </div>
         </div>
         <div className="z-10 flex flex-col gap-10 xl:gap-4">
-          <p className="text-xl font-semibold leading-6 tracking-normal text-white">
+          <h2 className="text-xl font-semibold leading-6 tracking-normal text-white">
             I received a job offer mid-course, and the subjects I learned were
             current, if not more so, in the company I joined. I honestly feel I
             got every penny’s worth.
-          </p>
+          </h2>
           <p className="text-medium w-[15.438rem] text-[0.813rem] leading-[1.125rem] tracking-normal text-[#CFCFCF]/70 xl:w-full">
             “ I was an EMT for many years before I joined the bootcamp. I’ve
             been looking to make a transition and have heard some people who had
@@ -66,9 +66,9 @@ export default function Testimonials() {
           </div>
         </div>
         <div className="z-10 flex flex-col gap-4">
-          <p className="text-xl font-semibold leading-6 tracking-normal text-white">
+          <h2 className="text-xl font-semibold leading-6 tracking-normal text-white">
             The team was very supportive and kept me motivated
-          </p>
+          </h2>
           <p className="text-medium text-[0.813rem] leading-[1.125rem] tracking-normal text-white/70">
             “ I started as a total newbie with virtually no coding skills. I now
             work as a mobile engineer for a big company. This was one of the
@@ -95,9 +95,9 @@ export default function Testimonials() {
           </div>
         </div>
         <div className="z-10 flex flex-col gap-4 xl:gap-6">
-          <p className="text-xl font-semibold leading-6 tracking-normal text-[#48556A]">
+          <h2 className="text-xl font-semibold leading-6 tracking-normal text-[#48556A]">
             An overall wonderful and rewarding experience
-          </p>
+          </h2>
           <p className="text-medium text-[0.813rem] leading-[1.125rem] tracking-normal text-[#48556A]/70">
             “ Thank you for the wonderful experience! I now have a job I really
             enjoy, and make a good living while doing something I love. ”
@@ -123,11 +123,11 @@ export default function Testimonials() {
           </div>
         </div>
         <div className="z-10 flex flex-col gap-4 xl:gap-6">
-          <p className="text-xl font-semibold leading-6 tracking-normal text-[#ECF2F8]">
+          <h2 className="text-xl font-semibold leading-6 tracking-normal text-[#ECF2F8]">
             Awesome teaching support from TAs who did the bootcamp themselves.
             Getting guidance from them and learning from their experiences was
             easy.
-          </p>
+          </h2>
           <p className="text-medium text-[0.813rem] leading-[1.125rem] tracking-normal text-white/70">
             “ The staff seem genuinely concerned about my progress which I find
             really refreshing. The program gave me the confidence necessary to
@@ -158,9 +158,9 @@ export default function Testimonials() {
           </div>
         </div>
         <div className="z-10 flex flex-col gap-4 xl:gap-6">
-          <p className="text-xl font-semibold leading-6 tracking-normal text-[#48556A]">
+          <h2 className="text-xl font-semibold leading-6 tracking-normal text-[#48556A]">
             Such a life-changing experience. Highly recommended!
-          </p>
+          </h2>
           <p className="text-medium text-[0.813rem] leading-[1.125rem] tracking-normal text-[#48556A]/70">
             “ Before joining the bootcamp, I’ve never written a line of code. I
             needed some structure from professionals who can help me learn
