@@ -10,9 +10,6 @@
   }
 
   h1 {
-    @apply invisible absolute m-0 inline-block h-px
-    w-px translate-x-[-100%] overflow-hidden border-none p-0 text-[0px];
-
-    clip: rect(1px, 1px, 1px, 1px);
+    @apply absolute top-[-9999px] left-[-9999px];
   }
 }
