@@ -6,6 +6,6 @@
 
 @layer base {
   body {
-    @apply flex flex-col items-center bg-[#ECF2F8];
+    @apply flex flex-col items-center bg-[#ECF2F8] font-['Barlow_Semi_Condensed'];
   }
 }
